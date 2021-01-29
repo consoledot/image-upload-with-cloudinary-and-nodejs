@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.23.0"
+  },
+  "name": "image-upload",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consoledot/image-upload-with-cloudinary-and-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consoledot/image-upload-with-cloudinary-and-nodejs/issues"
+  },
+  "homepage": "https://github.com/consoledot/image-upload-with-cloudinary-and-nodejs#readme"
+}
